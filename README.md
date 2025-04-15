@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://frappehr.com">
-		<img src="https://raw.githubusercontent.com/frappe/hrms/develop/hrms/public/images/frappe-hr-logo.png" height="128" alt="Frappe HR Logo">
+	<a >
+		<img src="/frappe/sb-hrm/frontend/public/favicon.png" height="128" alt="Frappe HR Logo">
 	</a>
 	<h2>Frappe HR</h2>
 	<p align="center">
@@ -20,28 +20,6 @@
 
 </div>
 
-## Introduction
-
-Frappe HR has everything you need to drive excellence within the company. It's a complete HRMS solution with over 13 different modules right from Employee Management, Onboarding, Leaves, to Payroll, Taxation, and more!
-
-![HRMS](hrms.png)
-
-## Key Features
-
-- Employee Management
-- Employee Lifecycle
-- Leave and Attendance
-- Shift Management
-- Expense Claims and Advances
-- Hiring
-- Performance Management
-- Fleet Management
-- Training
-- Payroll
-- Taxation
-- Compensation
-- Analytics
-
 ## Installation
 
 ### Manual Installation
@@ -57,18 +35,6 @@ Frappe HR has everything you need to drive excellence within the company. It's a
 	```sh
 	$ bench --site sitename install-app hrms
 	```
-
-
-## Learning and Community
-
-1. [Documentation](https://docs.frappe.io/hr) - Extensive documentation for Frappe HR.
-2. [User Forum](https://discuss.erpnext.com/) - Engage with the community of ERPNext users and service providers.
-3. [Telegram Group](https://t.me/frappehr) - Get instant help from the community of users.
-
-## Contribute
-
-1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines) - [Create an issue](https://github.com/frappe/hrms/issues/new)
-1. [Contribution Guidelines](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
 
 ## License
 
